@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas
+### Olá! Eu sou o Lucas, bem vindo ao meu GitHub
 
 <!--
 **lsantiago123/lsantiago123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
