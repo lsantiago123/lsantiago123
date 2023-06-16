@@ -1,4 +1,4 @@
-<div align="center" style="font-size:300%">
+<div align="center" style="font-size:900%">
 Olá! Eu sou o Lucas, bem vindo ao meu GitHub
 </div>
 
