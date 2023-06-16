@@ -1,6 +1,5 @@
-<div align="center" style="font-size:900%">
-Olá! Eu sou o Lucas, bem vindo ao meu GitHub
-</div>
+<p align="center"><b>Olá! Eu sou o Lucas, bem-vindo ao meu GitHub</b></p>
+
 
 ##
 
